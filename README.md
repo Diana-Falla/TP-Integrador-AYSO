@@ -1,5 +1,18 @@
 # TP-Integrador-AYSO
-TP Integrador - Diana Falla, Claudio Fiorito
+TP Integrador - 
+Integrantes : Diana Falla, Claudio Fiorito
+Comisión : 13
+
+Presentación del tema: Virtualización - VirtualBox
+
+Este trabajo fue realizado como parte del cierre del primer cuatrimestre de la materia Arquitectura y Siste-mas Operativos. Somos estudiantes que estamos empezando en este camino, y elegimos el tema 'Virtualiza-ción' porque nos pareció interesante aprender a usar una herramienta como VirtualBox y conocer la forma en que se pueden simular distintos sistemas operativos dentro de una misma computadora.
+
+Objetivo: 
+
+Nuestro objetivo fue conocer los conceptos básicos de la virtualización, entender p
+Nuestro objetivo fue conocer los conceptos básicos de la virtualización, entender para qué sirve, y hacer una prueba concreta de instalación de una máquina virtual desde cero, ejecutando un pequeño programa en Python dentro del sistema operativo.
+
+
 
 GUIA DEL REPOSITORIO:
 
